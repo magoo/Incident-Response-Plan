@@ -65,6 +65,7 @@ We will _Update a Breach Timeline_ with all known temporal data related to the i
 
 ## Required Retrospective
 > If you want this document to be focused on emergency handling only, you can strike this section.
+
 All incidents meeting "High" severity classification must be a part of the regularly scheduled weekly outage meeting.
 
 
