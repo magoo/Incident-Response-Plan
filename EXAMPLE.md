@@ -59,6 +59,7 @@ We will _Update a Breach Timeline_ with all known temporal data related to the i
 | ACME Forensics      | Forensic Response | name@email.com | (777)-555-555 |
 | Krisis Management   | PR Augmentation   | name@email.com | (777)-555-555 |
 | SF FBI Field Office | Law Enforcement   | name@email.com | (777)-555-555 |
+| J&L Law Partners | Breach Notification Expertise   | name@email.com | (777)-555-555 |
 
 ## Runbooks
 > If you have any specific "How To"'s for common investigations, include them here
