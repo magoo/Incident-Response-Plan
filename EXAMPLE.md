@@ -54,11 +54,11 @@ We will _Update a Breach Timeline_ with all known temporal data related to the i
 
 ## External Contact
 
-| Name    | Cell Phones  | wickr     | signal    | pgp       |
-|---------|--------------|-----------|-----------|-----------|
-| Bob     | 777-777-7777 | something | something | something |
-| Alice   | 777-777-7777 | something | something | something |
-| Mallory | 777-777-7777 | something | something | something |
+| Name                | Function          | Email          | Phone         |
+|---------------------|-------------------|----------------|---------------|
+| ACME Forensics      | Forensic Response | name@email.com | (777)-555-555 |
+| Krisis Management   | PR Augmentation   | name@email.com | (777)-555-555 |
+| SF FBI Field Office | Law Enforcement   | name@email.com | (777)-555-555 |
 
 ## Runbooks
 > If you have any specific "How To"'s for common investigations, include them here
