@@ -1,4 +1,4 @@
-> This is an Incident Response Plan you can copy paste. Please do not copy paste it and expect it to be coherent.
+> This is *not* an Incident Response Plan you can copy paste. Please do not copy paste it and expect it to be coherent.
 
 # Incident Response Plan
 This document offers guidance for employees or incident responders who believe they have discovered or are responding to a security incident.
